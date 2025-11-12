@@ -1,3 +1,4 @@
+// 📁 components/Navigation.tsx
 'use client'
 
 import { Home, Folder, MessageSquare, Settings, User } from 'lucide-react'
